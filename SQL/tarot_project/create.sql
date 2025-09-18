@@ -30,4 +30,8 @@ foreign key (id_carta) references cartas_tarot(id_carta),
 foreign key (id_atributo) references atributos(id_atributo)
 )
 */
+
+/*
 select * from cartas_tarot
+*/
+
